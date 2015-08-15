@@ -3,6 +3,8 @@ Creator: Erica Cheong
 
 This program is created for the Udacity Full Stack Web Developer Nanodegree
 
+This program uses Python and Fresh Tomatoes API to populate a list of my favorite movies.
+
 ## Usage - quick start
 1. Download fresh_tomatoes.html
 2. Open the file in browser
